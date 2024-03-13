@@ -1,7 +1,7 @@
 {
  "background_color": "#FFFFFF",
- "name": "GRAND PLAZA HOTEL",
  "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen",
  "icons": [
   {
@@ -35,5 +35,5 @@
    "sizes": "16x16"
   }
  ],
- "theme_color": "#FFFFFF"
+ "name": "GRAND PLAZA HOTEL"
 }
