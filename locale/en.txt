@@ -176,4 +176,4 @@ HTMLText_4AE4DCDD_5EE8_88F7_41D1_3A00BC21E997.html = <div style="text-align:left
 ### Description
 
 ### Title
-tour.name = GRAND PLAZA HOTEL
+tour.name = Grand Plaza Hotel Ljubljana – 360° virtual tour
